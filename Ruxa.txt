@@ -14,12 +14,13 @@
 1 Elvish Mystic (CMM) 284
 1 Elvish Warrior (DPA) 64
 1 Entish Restoration (LTR) 163
+1 Eusocial Engineering (EOE) 181
 1 Evolving Wilds (WOE) 256
 1 Ezuri's Predation (C21) 188
 1 Fang-Druid Summoner (DFT) 163
 1 Fog (MIR) 216
 1 Fog of War (BRO) 180
-33 Forest (RTR) 270
+31 Forest (RTR) 270
 1 Gaea's Anthem (TSR) 204
 1 Garruk's Gorehorn (M21) 184
 1 Garruk's Uprising (WOT) 53
@@ -42,6 +43,7 @@
 1 Muraganda Petroglyphs (TSR) 220
 1 Murasa Brute (ZNR) 195
 1 Myriad Landscape (TDC) 380
+1 Norwood Ranger (8ED) 271
 1 Orazca Frillback (JMP) 416
 1 Paradox Zone (C21) 64
 1 Quakestrider Ceratops (FDN) 110
@@ -77,7 +79,6 @@
 1 Chalk Outline (MKM) 157
 1 Colossapede (AKH) 161
 1 Elven Farsight (LTR) 161
-1 Eusocial Engineering (EOE) 181
 1 Explore (LCC) 241
 1 Ferocious Zheng (GS1) 28
 1 Fierce Empath (CMM) 288
@@ -95,7 +96,6 @@
 1 Molt Tender (DFT) 171 *F*
 1 Moss Diamond (CMR) 327 *F*
 1 Nessian Courser (THS) 165
-1 Norwood Ranger (8ED) 271
 1 Nyxborn Colossus (THB) 191
 1 Primal Might (OTP) 32 *F*
 1 Primordial Wurm (DOM) 177
