@@ -4,12 +4,12 @@
 1 Airship Crash (FIN) 171
 1 Alpine Grizzly (KTK) 127
 1 Arcane Signet (LTC) 273
+1 Become the Avalanche (TDC) 83
 1 Broken Wings (DMU) 157
 1 Bushwhack (FDN) 215
 1 Challenger Troll (J22) 639
 1 Colossal Majesty (J22) 87
 1 Courser of Kruphix (J22) 641
-1 Crash the Party (NCC) 57
 1 Cultivate (M11) 168
 1 Elvish Mystic (CMM) 284
 1 Elvish Warrior (DPA) 64
@@ -27,7 +27,6 @@
 1 Garruk, Primal Hunter (M12) 174
 1 Gigantosaurus (PM19) 185s *F*
 1 Hall of Triumph (JOU) 162
-1 Harmonize (BLC) 120
 1 Harrier Naga (HOU) 118
 1 Howl of the Night Pack (M10) 187
 1 Hunter's Insight (NEC) 119
@@ -40,6 +39,7 @@
 1 Klothys's Design (THB) 176
 1 Kodama's Reach (CMM) 649
 1 Leatherback Baloth (WWK) 107
+1 March of the World Ooze (DFT) 169
 1 Muraganda Petroglyphs (TSR) 220
 1 Murasa Brute (ZNR) 195
 1 Myriad Landscape (TDC) 380
@@ -78,12 +78,14 @@
 1 Bite Down (FDN) 212
 1 Chalk Outline (MKM) 157
 1 Colossapede (AKH) 161
+1 Crash the Party (NCC) 57
 1 Elven Farsight (LTR) 161
 1 Explore (LCC) 241
 1 Ferocious Zheng (GS1) 28
 1 Fierce Empath (CMM) 288
 1 Glimpse the Core (LCI) 186
 1 Gnarled Mass (BOK) 127
+1 Harmonize (BLC) 120
 1 Horn of the Mark (LTR) 241
 1 Kamahl's Will (CMR) 238
 1 Karametra's Acolyte (THS) 160
