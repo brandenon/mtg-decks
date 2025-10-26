@@ -4,10 +4,11 @@
 1 Accursed Marauder (MH3) 80
 1 Anax, Hardened in the Forge (THB) 264
 1 Arcane Signet (CMR) 297
-1 Archpriest of Shadows (MOM) 356
 1 Ashnod's Altar (BRR) 4
+1 Avenger of the Fallen (TDM) 73
 1 Barbarian Ring (MH3) 299
 1 Bastion of Remembrance (IKO) 73
+1 Bedevil (OTP) 37
 1 Black Market Connections (LCC) 181
 1 Blasphemous Act (LCC) 216
 1 Blood Artist (JMP) 206
@@ -17,15 +18,13 @@
 1 Braids, Arisen Nightmare (DMU) 84
 1 Broadside Bombardiers (LCC) 86
 1 Callous Sell-Sword (WOE) 221
-1 Captain Lannery Storm (FCA) 38
 1 Chandra, Acolyte of Flame (M20) 126
 1 Collector's Vault (WOE) 244 *F*
 1 Command Tower (CMR) 479
 1 Commander's Sphere (MIC) 159
 1 Corrupted Conviction (MOM) 98
 1 Deadly Dispute (FCA) 33
-1 Decadent Dragon (WOE) 223
-1 Diamond Pick-Axe (LCI) 143
+1 Decree of Pain (DSC) 136
 1 Dockside Chef (NEO) 93
 1 Eriette's Tempting Apple (WOE) 245
 1 Evolving Wilds (IKO) 247
@@ -36,25 +35,26 @@
 1 Foreboding Ruins (WHO) 279
 1 Funeral Rites (JMP) 235
 1 Furnace Reins (MOM) 141 *F*
-1 Gadrak, the Crown-Scourge (M21) 146
-1 Gisa, the Hellraiser (OTJ) 89
 1 Guildless Commons (CMR) 351
 1 Havoc Jester (M21) 149
-1 Illicit Masquerade (MKM) 88
 1 Impulsive Pilferer (CMR) 185
-1 Judith, the Scourge Diva (MUL) 45
 1 Lagomos, Hand of Hatred (DMU) 304
+1 Languish (ORI) 105
 1 Lich-Knights' Conquest (WOE) 96
 1 Liliana of the Dark Realms (PMEI) 2024-8 *F*
 1 Mahadi, Emporium Master (CLB) 540 *E*
 1 Makeshift Munitions (CMR) 191
+1 Massacre Girl (OTC) 140
 1 Mayhem Devil (RVR) 199
+1 Midgar, City of Mako (FIN) 286
+1 Mimic Vat (NCC) 372
 1 Mind Stone (PW21) 5 *F*
 1 Mirkwood Bats (LTR) 421
 4 Mountain (THB) 253
 1 Mountain (MOM) 289
 1 Mountain (LTR) 279
 1 Mountain (WOE) 265
+1 Oblivion Stone (2XM) 279
 1 Opal Palace (CMR) 352
 1 Path of Ancestry (CMR) 353
 1 Pitiless Plunderer (LCC) 208
@@ -75,13 +75,13 @@
 1 Spark Harvest (CMR) 150
 1 Squee, the Immortal (MUL) 22 *F*
 1 Stormclaw Rager (MOM) 254 *F*
+1 Susur Secundi, Void Altar (EOE) 259
 6 Swamp (THB) 252
-1 Swamp (MOM) 286
 2 Swamp (LTR) 276
-1 Swamp (WOE) 264
 1 Swamp (FIN) 302 *F*
 2 Swamp (FIN) 301
 1 Terramorphic Expanse (CMR) 357
+1 The Fire Crystal (FIN) 135
 1 The Grey Havens (LTR) 255
 1 Thriving Bluff (LCC) 361
 1 Thriving Moor (J22) 826
@@ -92,22 +92,22 @@
 1 Viscera Seer (CMR) 158
 
 // MAYBEBOARD
-1 Avenger of the Fallen (TDM) 73
+1 Archpriest of Shadows (MOM) 356
 1 Ayara, Widow of the Realm (PMOM) 90s *F*
+1 Captain Lannery Storm (FCA) 38
 1 Charcoal Diamond (CMR) 303
 1 Crime Novelist (MKM) 121 *F*
-1 Decree of Pain (CMM) 148
+1 Decadent Dragon (WOE) 223
+1 Diamond Pick-Axe (LCI) 143
 1 Fanatical Offering (LCI) 105
 1 Fire Diamond (CMR) 309
 1 Flare of Malice (MH3) 95
+1 Gadrak, the Crown-Scourge (M21) 146
+1 Gisa, the Hellraiser (OTJ) 89
 1 Glóin, Dwarf Emissary (LTR) 132
 1 Hell to Pay (OTJ) 126
 1 Hellkite Tyrant (FIC) 295
-1 Massacre Girl (DSC) 146
-1 Midgar, City of Mako (FIN) 286
-1 Mimic Vat (NCC) 372
+1 Illicit Masquerade (MKM) 88
+1 Judith, the Scourge Diva (MUL) 45
 1 Myriad Landscape (EOC) 169
-1 Oblivion Stone (M3C) 303
-1 Susur Secundi, Void Altar (EOE) 259
 1 Szat's Will (CMR) 152
-1 The Fire Crystal (FIN) 135
