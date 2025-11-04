@@ -20,7 +20,7 @@
 1 Fang-Druid Summoner (DFT) 163
 1 Fog (MIR) 216
 1 Fog of War (BRO) 180
-31 Forest (RTR) 270
+30 Forest (RTR) 270
 1 Gaea's Anthem (TSR) 204
 1 Garruk's Gorehorn (M21) 184
 1 Garruk's Uprising (WOT) 53
@@ -67,6 +67,7 @@
 1 Tifa's Limit Break (FIN) 207 *F*
 1 Under the Skin (DSK) 203
 1 Valgavoth's Onslaught (DSK) 204
+1 Vibrant Cityscape (SPM) 188
 1 Wilt (IKO) 176
 1 Woodland Druid (ODY) 284
 1 Zanarkand, Ancient Metropolis (FIN) 293
