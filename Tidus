@@ -46,16 +46,19 @@
 1 Path to Exile (FIC) 248
 1 Sol Ring (FIC) 358
 1 Arcane Signet (FIC) 334
+1 Counterspell (DSC) 114
 1 Destroy Evil (FIC) 240
 1 Duskshell Crawler (FIC) 301
 1 Farseek (FIC) 302
 1 Grateful Apparition (FIC) 244
 1 Gyre Sage (FIC) 306
+1 Heroic Intervention (CMM) 295
 1 Incubation Druid (FIC) 309
-1 Lord Jyscal Guado (FIC) 23
+1 Metastatic Evangel (MH3) 35
 1 O'aka, Traveling Merchant (FIC) 39
 1 Protection Magic (FIC) 24
-1 Pull from Tomorrow (FIC) 269
+1 Ride the Shoopuf (FIN) 197
+1 Roaring Earth (NEO) 204
 1 Scholar of New Horizons (FIC) 252
 1 Shelinda, Yevon Acolyte (FIC) 94
 1 Sphere Grid (FIC) 70
@@ -68,24 +71,21 @@
 1 Endless Detour (FIC) 324
 1 Fight Rigging (FIC) 303
 1 Gatta and Luzzu (FIC) 19
-1 Generous Patron (FIC) 305
 1 Inspiring Call (FIC) 310
+1 Kami of Whispered Hopes (MOM) 196
 1 Lulu, Stern Guardian (FIC) 38
 1 Maester Seymour (FIC) 68
 1 Resourceful Defense (FIC) 251
 1 Rikku, Resourceful Guardian (FIC) 41
 1 Summon: Ixion (FIC) 27
-1 Tireless Tracker (FIC) 316
 1 Tromell, Seymour's Butler (FIC) 73
 1 Yuna's Whistle (FIC) 75
-1 Altered Ego (FIC) 317
 1 Auron, Venerated Guardian (FIC) 10
 1 Chocobo Knights (FIC) 12
 1 Fathom Mage (FIC) 325
 1 Forgotten Ancient (FIC) 304
 1 Kimahri, Valiant Guardian (FIC) 85
 1 Luminous Broodmoth (FIC) 246
-1 Path of Discovery (FIC) 312
 1 Rampant Rejuvenator (FIC) 314
 1 Summon: Yojimbo (FIC) 28
 1 Wakka, Devoted Guardian (FIC) 97
@@ -100,3 +100,14 @@
 1 Bane of Progress (FIC) 299
 1 Farewell (FIC) 242
 1 Sin, Unending Cataclysm (FIC) 95
+
+// MAYBEBOARD
+1 The Ozolith (IKO) 237
+1 Lord Jyscal Guado (FIC) 23
+1 Ozolith, the Shattered Spire (MOM) 198
+1 Pull from Tomorrow (FIC) 269
+1 Generous Patron (FIC) 305
+1 Retreat to Kazandu (CMR) 435
+1 Tireless Tracker (FIC) 316
+1 Altered Ego (FIC) 317
+1 Path of Discovery (FIC) 312
